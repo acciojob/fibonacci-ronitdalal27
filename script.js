@@ -1,6 +1,5 @@
 function fibonacci(num) {
 	// your code here
-	if (num < 0) return "Invalid input"; // Handle negative input
     if (num === 0) return 0; // Base case: the 0th Fibonacci number is 0
     if (num === 1) return 1; // Base case: the 1st Fibonacci number is 1
     
